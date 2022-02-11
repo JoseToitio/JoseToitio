@@ -1,4 +1,4 @@
-## Olá! Eu sou o Toitio 🇯🇵
+## Olá! Eu sou o Toitio
 
 
  <div>
