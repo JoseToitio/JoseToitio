@@ -24,7 +24,11 @@
      <img src="https://github-profile-trophy.vercel.app/?username=joseToitio&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
   </div>
   
- 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 
 
